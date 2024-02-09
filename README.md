@@ -1,10 +1,10 @@
 # Práctica de Buffer Overflow
 
-El archivo BufferOverflow contiene la práctica de Heap Overflow.
+El archivo BufferOverflow.odt contiene la práctica de Heap Overflow.
 
 # Evaluación de Cuestionarios
 
-El archivo de cuestionarios evalúa los cuestionarios y se elige en el que se usará en la práctica final.
+El archivo de Cuestionarios.pdf evalúa los cuestionarios y se elige en el que se usará en la práctica final.
 
 # Instrucciones para Realizar los Tests
 
