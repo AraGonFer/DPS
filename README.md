@@ -8,7 +8,7 @@ El archivo de Cuestionarios.pdf evalúa los cuestionarios y se elige en el que s
 
 # Instrucciones para Realizar los Tests
 
-Para realizar las pruebas unitarias, descarga el archivo zip `lab2-unit-tests-AraGonFer-main (1).zip`. Dentro de este archivo encontrarás otro README con la explicación detallada de lo que debes hacer. Este es el resultado que debería salir.
+Para realizar las pruebas unitarias, descarga el archivo zip `lab2-unit-tests-AraGonFer-main (1).zip`. Dentro de este archivo encontrarás otro README con la explicación detallada de lo que debes hacer. Este es el resultado que sale:
 
 
 [==========] Running 6 tests from 3 test suites.<br>
